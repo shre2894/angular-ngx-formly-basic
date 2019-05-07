@@ -7,6 +7,6 @@
 [tutorial](https://youtu.be/WiljtPGZtW8)
 
 ### special thanks to: 
-  angular team
-  Abdellatif Ait boudad
+  angular team,
+  Abdellatif Ait boudad,
   Paul Halliday
